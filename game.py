@@ -17,7 +17,7 @@ pygame.init()
 displaySIZE = (800,600)
 centerDisplay = (400,300)
 
-# Background Color
+# Game Background Color
 
 backgroundColor = (50,245,245)
 
